@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Olho negro</title>
+</head>
+<body>
+<div>
+        <h1>Guia das Galaxias</h1>
+</div>
+<div>
+
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Blackeyegalaxy.jpg/280px-Blackeyegalaxy.jpg" alt="">
+</div>
+<div>
+    <h2>Galaxia de Olho Negro</h2>
+</div>
+   <hr> 
+    <h3>Descrição</h3>
+   <p>A galáxia do Olho Negro (Messier 64, NGC 4826) é uma galáxia espiral localizada a aproximadamente dezessete milhões de anos-luz (cerca de 5,2 megaparsecs</p>
+   <div>
+   <h3>Dados interessantes</h3>
+</div>
+<div>
+    <ol>
+  <li>Os cinetistas acreditam na hipotese de que ela seja o resultado da colisão entre duas galaxias</li>
+  <li>A galaxia espiral foi descoberta por Edward Pigott em 23 de março de 1779</li>
+  <li>Pode ser vista de binoculos</li>
+    </ol>  
+</div>
+     <hr>
+
+    <h3>Outras galaxias :<a target="_blank" href="Amdromeda.html">Andromeda</a> </h3><a target="_blank" href=></a></h3>
+
+</body>
+</html>
