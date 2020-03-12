@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Andromeda</title>
+</head>
+<body>
+<div>
+        <h1>Guia das Galaxias</h1>
+</div>
+<div>
+
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg/280px-Andromeda_Galaxy_%28with_h-alpha%29.jpg" alt="">
+</div>
+<div>
+    <h2>Galaxia de Andromeda</h2>
+</div>
+   <hr> 
+    <h3>Descrição</h3>
+   <p>A galáxia de Andrômeda (Messier 31, NGC 224) é uma galáxia espiral localizada a cerca de 2,54 milhões </p>
+   <div>
+   <h3>Dados interessantes</h3>
+</div>
+<div>
+    <ol>
+  <li>Além da via lactea,é a galaxia mais estudada</li>
+  <li>Suas duas galaxias satélite missier 32 e missier 110,são visiveis em binóculos</li>
+  <li>Sua dinstancia Em relação á terra ainda não foi bem definida</li>
+    </ol>  
+</div>
+     <hr>
+
+    <h3>Outras galaxias :<a target="_blank" href="Olho negro.html">Olho Negro</a> <a target="_blank" href=""></a></h3>
+
+</body>
+</html>
